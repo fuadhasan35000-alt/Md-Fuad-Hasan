@@ -1,0 +1,8 @@
+{
+  "name": "Amar Dokan",
+  "description": "মাল্টি-বিজনেস এবং মাল্টি-ব্রাঞ্চ ইনভেন্টরি, পিওএস, দেনা-পাওনা ও হিসাবরক্ষণ অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
